@@ -1,0 +1,55 @@
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   12  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   18  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   19  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   99  $ sudo dnf install git-all
+  100  $ git --version
+  101  $ sudo port install git
+  102  git clone https://github.com/esnt/stat386-blog-theme.git
+  103  git remote set-url origin https://github.com/ErikaWells/myblog
+  104  sudo dnf install git-all
+  106  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+  108  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  109  git --version
+  110  brew install git
+  112  git config --global user.name "Erika Wells"
+  114  git config --global user.email "erika@wellsmail.us"
+  115  git config --global core.editor "code --wait"
+  116  git config --global --list
+  117  git config --global --list
+  118  git config --global init.defaultBranch main
+  122  git clone https://github.com/esnt/stat386-blog-theme.git
+  124  git rempte set-url origin https://github.com/ErikaWells/myblog
+  125  git remote set-url origin https://github.com/ErikaWells/myblog
+  126  git push -u origin main 
+  127  git remote set-url origin https://<TOKEN>@github.com/ErikaWells/myblog.git
+  128  git remote set-url origin https://ErikaWells@github.com/ErikaWells/myblog.git
+  129  git push -u origin main
+  130  git remote set-url origin https://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@github.com/ErikaWells/myblog.git
+  131  git push - u origin main 
+  132  git push -u origin main
+  133  git config --global http.postBuffer 524288000
+  134  git push -u origin main
+  143  git config --global --list
+  147  git clone git@github.com:ErikaWells/myblog.git
+  152  ssh -T git@github.com
+  153  git clone git@github.com:ErikaWells/myblog.git
+  161  git add _posts 2025-01-16-Why-Data?.md
+  162  git add _posts/2025-01-16-Why-Data?.md
+  164  git add 2025-01-16-Why-Data.md
+  165  git add 2025-01-16-Why-Data?.md
+  166  git commit -m "Add new blog post: Why Data?"
+  167  git push origin main
+  168  git add 2025-01-24-Data-In-Travel.md
+  169  git add 2025-01-24-Data-In-Travel.md
+  185  git clone git@github.com:ErikaWells/git-practice-juneferre.git
+  188  git clone git@github.com:ErikaWells/git-practice-juneferre.git
+  189  cd ~/git-practice-juneferre
+  190  git checkout -b feature-ErikaWells
+  192  git add .
+  193  git status
+  194  git commit -m "commit test file"
+  195  git push origin feature-ErikaWells
+  196  git pull
+  202  git log --oneline > gitlog.txt
+  203  history | grep git > history.txt

@@ -1,0 +1,13 @@
+53a003a fixing conflict
+4744a44 commit new features
+65b2a0b committing multiple changes
+17ca18d commit more text added
+1b0a36e commit new text
+f105f38 commit featured file
+8503993 add features
+9d822d6 Commit .gitignore
+e6974f5 Commit ReadMe
+51e6c93 commit file2
+04cfaf5 Commit file1
+3e015bc file 2 commit
+d14068d file commit
